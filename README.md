@@ -1,3 +1,5 @@
+THIS IS THE BEST SPECIFICATION EVER MADE!
+
 [![DOI](https://zenodo.org/badge/67005248.svg)](https://zenodo.org/badge/latestdoi/67005248)
 
 The [GA4GH](https://www.ga4gh.org/) [Variation Representation
